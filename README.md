@@ -1,7 +1,7 @@
 ## Netflix Clone react app
 
 It is a netflix clone app made using react:
-It is made using:
+It uses knowledge of:
 <ul>
   <li>React Hooks</li>
   <li>React Props</li>
@@ -9,7 +9,10 @@ It is made using:
 </ul>
 
 It fetches data through the TMDB API ,which basically fetches movies data.
+This project is deployed on firebase.
 
+Have a look at the project here:
+https://netflix-clone-c5f32.web.app
 
 
 
